@@ -1,5 +1,0 @@
-build:
-  id: 123321
-  version: 12.21.32
-  name: "Dev-Git-Production-Build"
-  type: "Git Development Build"
